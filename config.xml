@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+	xmlns:gap = "http://phonegap.com/ns/1.0"
+	id = "com.hfmw.tartanhunt"
+	version = "1.0.0">
+	<name>Tartan Hunt</name>
+	<description>A companion application for the Scottish Celebration</description>
+	<author href="http://www.hf-mw.com" email="help@hf-mw.com">z1581617</author>
+	<icon src="images/touch-icon-iphone4.png" height="114" width="114" />
+</widget>
